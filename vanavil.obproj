@@ -1,0 +1,28 @@
+<Project ProjectFileVersion="4" UseRelativePaths="True" CheckVersionsWhileResolvingAssemblies="True" DisabledFromMSBuild="False" ID="{891a3e02-8d24-4eb5-828a-d5f4d09ca0f1}">
+  <SearchDirectories />
+  <OutputSettings OutputPath=".\CryptoObfuscator_Output" MainAssemblyPath="IndicLabs_DocumentConverter" RunAssemblyPath="IndicLabs_DocumentConverter" SNPath="C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\sn.exe" SignToolPath="" LicensingDLLPath="" OverwriteInputFiles="False" BuildID="" MapFilesLocation="" FullParamNamesInMappingFile="False">
+    <AdditionalAssemblies>
+      <AdditionalAssembly Path=".\bin\DevExpress.BonusSkins.v11.1.dll" Encrypt="False" Compress="False" />
+      <AdditionalAssembly Path=".\bin\DevExpress.Data.v11.1.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\bin\DevExpress.OfficeSkins.v11.1.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\bin\DevExpress.Printing.v11.1.Core.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\bin\DevExpress.Utils.v11.1.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\bin\DevExpress.Win.Projects.v11.1.Design.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\bin\DevExpress.XtraEditors.v11.1.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\bin\GemBox.Document.dll" Encrypt="False" Compress="True" />
+      <AdditionalAssembly Path=".\bin\Vanavil.ttf" Encrypt="False" Compress="True" />
+    </AdditionalAssemblies>
+  </OutputSettings>
+  <ExceptionReporting ExceptionReportingServiceURL="" TryToContinueOnException="True" LocalReportPath=".\vanavil_ExceptionReports" ApplicationName="" CompanyName="" ShowUI="True" EnableSaveToFileButton="True" EnableSendReportButton="True" />
+  <ObfuscationSettings RenamingScheme="0" UseOverloadedFieldNames="False" UseOverloadedMethodNames="False" HonorObfuscationAttributes="True" ExcludeSerializedTypes="True" ProcessInlineStrings="True" ForceXAMLProcessingModeExclude="False" ForceRenameParams="False" SymbolPrefix="" SymbolSuffix="" FakeFields="" FakeTypes="" FakeMethods="" EncryptionActive="True" CompressionActive="True" RemoveAccessedThroughPropertyAttribute="False" UseSaltForCryptographicRenaming="False" />
+  <ObfuscationRules />
+  <InclusionExclusionRules />
+  <Assembly Load="true" Path=".\bin\IndicLabs_DocumentConverter.exe" XapEntryName="" KeyFilePath=".\key.snk" KeyFileContainsPublicKeyOnly="False" CertFilePath="" TimeStampURL="" Rfc3161TimestampURL="False" Embed="True" AddExceptionReporting="False" PfxPassword="" PfxPasswordCert="" IsWinRTAssembly="False">
+    <ObfuscationSettings EncryptStrings="True" EncryptMethods="False" EncryptConstants="True" SuppressReflector="False" ReduceMetaData="False" ObfuscationDisposition="0" FlowObfuscation="2" CodeMasking="0" SuppressILDASM="False" SuppressReflection="False" CombineResources="True" EncryptResources="True" CompressResources="True" MarkAsSealed="False" EnableTamperDetection="False" EnableAntiDebugging="False" SymbolRenaming="True" HideExternalCalls="False" HideInternalCalls="False" GeneratePdbFile="False" ObfuscatePdbFileNames="True" IncludeLocalVariablesInPdbFile="False" Encrypt="True" Compress="False" MSBuild="False" ObfuscatedNamespace="A" RetainNamespace="False" ModuleInitializationMethod="" LicensingMerge="False" RemoveConstants="False" ProcessSatelliteAssemblies="True">
+      <Watermarks Watermark0="" Watermark1="" Watermark2="" Watermark3="" Watermark4="" Watermark5="" Watermark6="" Watermark7="" Watermark8="" Watermark9="" />
+    </ObfuscationSettings>
+  </Assembly>
+  <WarningSuppressions />
+  <Warnings SaveWarningsToFile="" FailOnUnsuppressedWarning="False" SaveSuppressedWarnings="True" SaveUnsuppressedWarnings="True" />
+  <Filters />
+</Project>

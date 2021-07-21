@@ -1,0 +1,643 @@
+﻿<Mappings><Entry OldName="RTFConverter.My.MyProject.m_ComputerObjectProvider" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.cc03ae784d10a0bb942651b3e598f118d" />
+<Entry OldName="RTFConverter.My.MyProject.m_AppObjectProvider" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.ce7fc52b02089461f9ce86d22794ea9fb" />
+<Entry OldName="RTFConverter.My.MyProject.m_UserObjectProvider" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c65f99fcc386ca700ca7c8ceb17f401cc" />
+<Entry OldName="RTFConverter.My.MyProject.m_MyFormsObjectProvider" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.cd5436b77163fa76ee4c04544423d1633" />
+<Entry OldName="RTFConverter.My.MyProject.m_MyWebServicesObjectProvider" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.cf703f19c012ee979012df168e6df7b70" />
+<Entry OldName="RTFConverter.My.Resources.Resources.resourceMan" NewName="A.cddb8fa88e27ec9e97ddfbef612dc07fe.c08878d7c467a9ba6fe786caf47c387f0" />
+<Entry OldName="RTFConverter.My.Resources.Resources.resourceCulture" NewName="A.cddb8fa88e27ec9e97ddfbef612dc07fe.c1f7195ad8a1e7d6b821dcb07e05d0d5c" />
+<Entry OldName="RTFConverter.Form2.components" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.c5ef404021332eb6d376d1ae3b6e37d20" />
+<Entry OldName="RTFConverter.Form2._remove_btn" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.cfdbf3b49b53b4516d3860ada1a03c0a1" />
+<Entry OldName="RTFConverter.Form2._exit_btn" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.cf38b9ac88eace05e05cecadd642e92c3" />
+<Entry OldName="RTFConverter.Form2._setkey_btn" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.c3ae571c2117000ea0795d822df31edb8" />
+<Entry OldName="RTFConverter.Form2._name_lbl" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.c8dae4be4aa2e4a04e8203a2dad6f1b45" />
+<Entry OldName="RTFConverter.Form2._name_box" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.c6ad50434ecac4bdd3dfc235a8677ca2a" />
+<Entry OldName="RTFConverter.Form2._message_lbl" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.c2de5074126b6d66839f92c8a615aa979" />
+<Entry OldName="RTFConverter.Form2._key_lbl" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.c40893d1f6faae5bf2227fda2d72804c7" />
+<Entry OldName="RTFConverter.Form2._mac_id_lbl" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.c0087b738e24790b01e21961fb3c759d2" />
+<Entry OldName="RTFConverter.Form2._message_box" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.c9870a4c3ef8fa92367f0057535718330" />
+<Entry OldName="RTFConverter.Form2._key_box" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.cd789cdf93424251951fa489a05797e72" />
+<Entry OldName="RTFConverter.Form2._mac_id_box" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.c7fc6e33a631e3894f637315f440ca31d" />
+<Entry OldName="RTFConverter.Form2.resourceMan" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.c08878d7c467a9ba6fe786caf47c387f0" />
+<Entry OldName="RTFConverter.Form2.resourceCulture" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.c1f7195ad8a1e7d6b821dcb07e05d0d5c" />
+<Entry OldName="RTFConverter.TamilRichtextconvert.mInitialDirectory" NewName="RTFConverter.TamilRichtextconvert.ce3d4979d6b8baedbb2ff0d22c043c49b" />
+<Entry OldName="RTFConverter.startup.isunicodechecked" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c512e0ea490bf11f43fcc50ae3c316a68" />
+<Entry OldName="RTFConverter.startup.totxmls" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c480374258f3771da27f0a577242b5aad" />
+<Entry OldName="RTFConverter.startup.savefrom" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c891a2abea17aa47722521a1a3d7332ac" />
+<Entry OldName="RTFConverter.startup.saveto" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c2976580dfd5940e44c91e4c5d0074245" />
+<Entry OldName="RTFConverter.startup.special" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c100569d433fc6f6f2e9a791321dc2565" />
+<Entry OldName="RTFConverter.startup.uninumber" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c60561a5442b24c4bb11d5b9158e82c0e" />
+<Entry OldName="RTFConverter.startup.docfonts" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.cb9254daea83269914c6f978d27afd461" />
+<Entry OldName="RTFConverter.startup.src1" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c3346f8db76d47dd61e15824cc4b467c3" />
+<Entry OldName="RTFConverter.startup.tgt1" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.ceac7b50b525ab8217b860c18a151e17c" />
+<Entry OldName="RTFConverter.startup.src2" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.cfa03be5e914d261efc934c1c6e9d9e46" />
+<Entry OldName="RTFConverter.startup.tgt2" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c314fe0e263606eb74f0711cd6f5323d9" />
+<Entry OldName="RTFConverter.startup.uni1" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c96529f29f9bde034265abe09282ed122" />
+<Entry OldName="RTFConverter.startup.uni2" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c19632f3340f131d4747a2f862f8ab18e" />
+<Entry OldName="RTFConverter.startup.srcc1" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.cbaa5c6e9d5a6fc22baad2ec641eb6c46" />
+<Entry OldName="RTFConverter.startup.srcc2" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c6a310e7d52ee969ab8de8f0d52e0c24e" />
+<Entry OldName="RTFConverter.startup.src_count" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c030c83b21698a98bebeb2985458a701d" />
+<Entry OldName="RTFConverter.startup.tgt_count" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.cd0e6b1c1f38ac15a442fe697a2f9d3cf" />
+<Entry OldName="RTFConverter.startup.uni_count" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.ce591afbb37beafb35535e9a376ee39de" />
+<Entry OldName="RTFConverter.startup.srcc_count" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c2c8e8805bec35371539d001e44d57832" />
+<Entry OldName="RTFConverter.startup.fromenc" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c0fb84642085892b413dd28b192530362" />
+<Entry OldName="RTFConverter.startup.toenc" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c5da8bfbe275bb7bf49e5fd0a65bdb4b1" />
+<Entry OldName="RTFConverter.startup.fromfont" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c092fa6c3978f67ad46e648d110aadfed" />
+<Entry OldName="RTFConverter.startup.totamfont" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c349c450ea8a686a57a5dea8dac3bd180" />
+<Entry OldName="RTFConverter.startup.toengfont" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.cf9c40a77e88600f610d2e832382c658e" />
+<Entry OldName="RTFConverter.startup.totamsizer" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.ce8325803dbd87c87777a26c45608a44f" />
+<Entry OldName="RTFConverter.startup.toengsizer" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c00232c7cee51dfd24b9ce69d43e9ddd2" />
+<Entry OldName="RTFConverter.startup.fromencstatus" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c587ff2d1fbcb43c6233697b7dde0255f" />
+<Entry OldName="RTFConverter.startup.srcfont" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c4342bf4416f39fb78ee6261276d73a79" />
+<Entry OldName="RTFConverter.startup.srcenc" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c7d00c2531866d13814859af76865ac56" />
+<Entry OldName="RTFConverter.startup.srccum" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.cffed2a4b87fd231c65d40f1210a1816e" />
+<Entry OldName="RTFConverter.startup.srccount" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.cac39035cf869b65194a0c61ddc2e7ba0" />
+<Entry OldName="RTFConverter.startup.src" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c48c398cbd0e86a560ba92dc0e7e161a5" />
+<Entry OldName="RTFConverter.startup.srccnt" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c69ac39db94cfaa0d8012ae5088cd2804" />
+<Entry OldName="RTFConverter.startup.loaded" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.cde09cef8d9dc1a126973f80bbcbb0e67" />
+<Entry OldName="RTFConverter.startup.targetdir" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c1d467bb103566736805f4c9dad4dad61" />
+<Entry OldName="RTFConverter.XtraConverter.components" NewName="RTFConverter.XtraConverter.c5ef404021332eb6d376d1ae3b6e37d20" />
+<Entry OldName="RTFConverter.XtraConverter._XtraTabControl1" NewName="RTFConverter.XtraConverter.c2b19b5fe6fe2da2fc40eef0dce7bc5c0" />
+<Entry OldName="RTFConverter.XtraConverter._XtraTabPage1" NewName="RTFConverter.XtraConverter.caf373df8514e1f8748aa01ee35ca5472" />
+<Entry OldName="RTFConverter.XtraConverter._XtraTabPage2" NewName="RTFConverter.XtraConverter.ce6ed32af7c17deaedfc2cb8d1cfcb390" />
+<Entry OldName="RTFConverter.XtraConverter._XtraTabPage3" NewName="RTFConverter.XtraConverter.c895ce5e4346100b755ee2e0cb9a49be2" />
+<Entry OldName="RTFConverter.XtraConverter._XtraTabPage4" NewName="RTFConverter.XtraConverter.c5da79c88a2a4b1ef186cda8c33ded45d" />
+<Entry OldName="RTFConverter.XtraConverter._GroupControl1" NewName="RTFConverter.XtraConverter.c37dc3f40c9ab6c4e294d4c89c892ef63" />
+<Entry OldName="RTFConverter.XtraConverter._button_clearfiles" NewName="RTFConverter.XtraConverter.c979efbc73da7729e265048e8cf5d6b61" />
+<Entry OldName="RTFConverter.XtraConverter._button_pullfiles" NewName="RTFConverter.XtraConverter.c406e772cad56ddd08058968547a91619" />
+<Entry OldName="RTFConverter.XtraConverter._childlocation" NewName="RTFConverter.XtraConverter.c8eee0b79efb3b86886ba7ebee800f497" />
+<Entry OldName="RTFConverter.XtraConverter._GroupControl4" NewName="RTFConverter.XtraConverter.cf66010c734714aa5a969e1e7bdb48543" />
+<Entry OldName="RTFConverter.XtraConverter._TableLayoutPanel1" NewName="RTFConverter.XtraConverter.c645cd7e3305690f2ccba7082b5c02ae5" />
+<Entry OldName="RTFConverter.XtraConverter._Button1" NewName="RTFConverter.XtraConverter.c66701d881b96eb9de62fafde97a05324" />
+<Entry OldName="RTFConverter.XtraConverter._parentlocation" NewName="RTFConverter.XtraConverter.ce489302eb4071ea1e473a15cda514ace" />
+<Entry OldName="RTFConverter.XtraConverter._GroupControl2" NewName="RTFConverter.XtraConverter.c0e66b67b5a651a1c87bdb79aa94ca7dc" />
+<Entry OldName="RTFConverter.XtraConverter._check_fileselection" NewName="RTFConverter.XtraConverter.c0a4d50144c5f90f402a30ab3df7a1e82" />
+<Entry OldName="RTFConverter.XtraConverter._GroupControl3" NewName="RTFConverter.XtraConverter.cab47374f424ecf8bcda3df0b50c46b17" />
+<Entry OldName="RTFConverter.XtraConverter._button_cancel" NewName="RTFConverter.XtraConverter.ceab24e6884e6c56cfc0c6dc8e9be813d" />
+<Entry OldName="RTFConverter.XtraConverter._button_convert" NewName="RTFConverter.XtraConverter.cc7d2e415195ad5f900c03725f1df67aa" />
+<Entry OldName="RTFConverter.XtraConverter._TableLayoutPanel4" NewName="RTFConverter.XtraConverter.cfa552523406de7b63beb9e4172171052" />
+<Entry OldName="RTFConverter.XtraConverter._Vanavil_checked" NewName="RTFConverter.XtraConverter.cb0c68ff52c5d2766c2bf3f13870bbd3f" />
+<Entry OldName="RTFConverter.XtraConverter._unicode_checked" NewName="RTFConverter.XtraConverter.cc77c00f465050822c9f8d31867c98058" />
+<Entry OldName="RTFConverter.XtraConverter._FolderBrowserDialog" NewName="RTFConverter.XtraConverter.cf0a128179eb92ef0bbc9522536065786" />
+<Entry OldName="RTFConverter.XtraConverter._BackgroundWorker1" NewName="RTFConverter.XtraConverter.c2614d769e4aaa33b9a3071f1b5452417" />
+<Entry OldName="RTFConverter.XtraConverter._BackgroundWorker2" NewName="RTFConverter.XtraConverter.c4a6fc354fabe6ca92c761ccb60c7f90c" />
+<Entry OldName="RTFConverter.XtraConverter._FolderBrowserDialog1" NewName="RTFConverter.XtraConverter.c2f665175d812e26e1e2ef1531cd93cf7" />
+<Entry OldName="RTFConverter.XtraConverter._TableLayoutPanel2" NewName="RTFConverter.XtraConverter.cd5bfc043e705f0528f94a647d60ce37d" />
+<Entry OldName="RTFConverter.XtraConverter._TableLayoutPanel5" NewName="RTFConverter.XtraConverter.ce241e9654c97a729a7e3b1ce629c7744" />
+<Entry OldName="RTFConverter.XtraConverter._TableLayoutPanel6" NewName="RTFConverter.XtraConverter.c13dd81c6597ac86518435bff3fef111a" />
+<Entry OldName="RTFConverter.XtraConverter._Vanavil_checked2" NewName="RTFConverter.XtraConverter.c034da9fc36d801046fae507d6f04b9f1" />
+<Entry OldName="RTFConverter.XtraConverter._unicode_checked2" NewName="RTFConverter.XtraConverter.ccfcae74e0796c5ad83145d947e7d5f0b" />
+<Entry OldName="RTFConverter.XtraConverter._Button5" NewName="RTFConverter.XtraConverter.c9fd34c5c5e2a00de66bf0e962b7f5d1b" />
+<Entry OldName="RTFConverter.XtraConverter._Button3" NewName="RTFConverter.XtraConverter.cea308759fcfd870f2ef142355211b915" />
+<Entry OldName="RTFConverter.XtraConverter._Button2" NewName="RTFConverter.XtraConverter.c3118c2614f228bcc9e9060bb53d40a7f" />
+<Entry OldName="RTFConverter.XtraConverter._Button4" NewName="RTFConverter.XtraConverter.c1daf2d3798f08f93a1f0e14e15887fa5" />
+<Entry OldName="RTFConverter.XtraConverter._TextBox1" NewName="RTFConverter.XtraConverter.c69b739337b7ad27c95ba390869c3a24f" />
+<Entry OldName="RTFConverter.XtraConverter._TextBox2" NewName="RTFConverter.XtraConverter.c8f67faa2db40295e0d217a1bdadd20b3" />
+<Entry OldName="RTFConverter.XtraConverter._Label10" NewName="RTFConverter.XtraConverter.cc9e8c011dad5853285548611b30c9229" />
+<Entry OldName="RTFConverter.XtraConverter._Panel1" NewName="RTFConverter.XtraConverter.cd3e05e19f2e2ef844b2e59b517202df3" />
+<Entry OldName="RTFConverter.XtraConverter._Label1" NewName="RTFConverter.XtraConverter.c986838af3103d0d5aaaa1fde7126310e" />
+<Entry OldName="RTFConverter.XtraConverter._TableLayoutPanel7" NewName="RTFConverter.XtraConverter.cd9e5ea344905b4b5658aa4da6e15c93f" />
+<Entry OldName="RTFConverter.XtraConverter._unicode_checked1" NewName="RTFConverter.XtraConverter.c7255a30ba2d9cd8b03e75ac279e91fa9" />
+<Entry OldName="RTFConverter.XtraConverter._Vanavil_checked1" NewName="RTFConverter.XtraConverter.c52faa373f520d51b06292fd948e6324e" />
+<Entry OldName="RTFConverter.XtraConverter._DefaultLookAndFeel1" NewName="RTFConverter.XtraConverter.c31e2055a3fd31fbf5fc7ed8bc75fcc2b" />
+<Entry OldName="RTFConverter.XtraConverter._button7" NewName="RTFConverter.XtraConverter.cba995b59dc73897551fa63ebeb3554be" />
+<Entry OldName="RTFConverter.XtraConverter._TableLayoutPanel11" NewName="RTFConverter.XtraConverter.c2369d86791e1b152fb4d0e15fc9c6025" />
+<Entry OldName="RTFConverter.XtraConverter._TableLayoutPanel3" NewName="RTFConverter.XtraConverter.c5bd0813f474f61766bc76d9e2b0f5cb8" />
+<Entry OldName="RTFConverter.XtraConverter._TableLayoutPanel12" NewName="RTFConverter.XtraConverter.caef88210676df1f4d39cd635acba2d48" />
+<Entry OldName="RTFConverter.XtraConverter._lstFiles" NewName="RTFConverter.XtraConverter.c1b3cf5aef62ef2f72bff460ba36614e0" />
+<Entry OldName="RTFConverter.XtraConverter._colFile" NewName="RTFConverter.XtraConverter.c309c73395417c68ab385e6d81a8cbb77" />
+<Entry OldName="RTFConverter.XtraConverter._colStatus" NewName="RTFConverter.XtraConverter.c39c9a9b1677b3172b38936e1b472e956" />
+<Entry OldName="RTFConverter.XtraConverter._colcolor" NewName="RTFConverter.XtraConverter.c7ee4dae67612e41932a034ede4d8f209" />
+<Entry OldName="RTFConverter.XtraConverter._ColOutput" NewName="RTFConverter.XtraConverter.c59c687d0fc561968759645f6db0ee40c" />
+<Entry OldName="RTFConverter.XtraConverter._ProgressBar1" NewName="RTFConverter.XtraConverter.c5d22695127f3e26baaf8b4585b98b4f1" />
+<Entry OldName="RTFConverter.XtraConverter._LabelControl1" NewName="RTFConverter.XtraConverter.c2bd76bac4b6605c25e83fcda1cb09d6f" />
+<Entry OldName="RTFConverter.XtraConverter._PictureBox1" NewName="RTFConverter.XtraConverter.caf74912b2233a468b9d45c91490c4d9f" />
+<Entry OldName="RTFConverter.XtraConverter._Label2" NewName="RTFConverter.XtraConverter.c712dcebd296ba86a6a6588e34aff0337" />
+<Entry OldName="RTFConverter.XtraConverter._PictureBox2" NewName="RTFConverter.XtraConverter.c2047be442e1dce65c5f9721d6541581a" />
+<Entry OldName="RTFConverter.XtraConverter._threads" NewName="RTFConverter.XtraConverter.c1fe1576712d12f89ae09af9717a5fbbb" />
+<Entry OldName="RTFConverter.XtraConverter._instances" NewName="RTFConverter.XtraConverter.c2deda3c46aec167f581d08513d959acb" />
+<Entry OldName="RTFConverter.XtraConverter._activeConvertCount" NewName="RTFConverter.XtraConverter.c1eb0678c6342274f0652dd71cb8145c3" />
+<Entry OldName="RTFConverter.XtraConverter.checkedfilepaths" NewName="RTFConverter.XtraConverter.c5cbbc2b3c12d576dc8b2d7cb9bda3aaf" />
+<Entry OldName="RTFConverter.XtraConverter.checkedindex" NewName="RTFConverter.XtraConverter.c041c2a503224eaa96d53bfd9de6e56f9" />
+<Entry OldName="RTFConverter.XtraConverter.checkedtimetaken" NewName="RTFConverter.XtraConverter.c44cca43f96dda335bb9bd17d5480a544" />
+<Entry OldName="RTFConverter.XtraConverter.checkedcount" NewName="RTFConverter.XtraConverter.cec911a67e06669f22ef82ff75806193b" />
+<Entry OldName="RTFConverter.XtraConverter.totalprogressvalue" NewName="RTFConverter.XtraConverter.c0e3a131ea56cea17cf89be63fbe15745" />
+<Entry OldName="RTFConverter.XtraConverter.currentprogressvalue" NewName="RTFConverter.XtraConverter.c624bc76915f956fd8eca53238701ceb4" />
+<Entry OldName="RTFConverter.XtraConverter.dragdropfiles" NewName="RTFConverter.XtraConverter.ca02d3ad4e96674e26993330d8f49527f" />
+<Entry OldName="RTFConverter.XtraConverter.dragdropduration" NewName="RTFConverter.XtraConverter.cd0af396e933d958188a98f055fa8df17" />
+<Entry OldName="RTFConverter.My.MyProject.MyForms.m_FormBeingCreated" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c849758404c4a9c75f8aff3d3b0ddb86c.c556fe4e7c165d7f81b7874be7a7f7bb7" />
+<Entry OldName="RTFConverter.My.MyProject.MyForms.m_XtraConverter" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c849758404c4a9c75f8aff3d3b0ddb86c.c4b2fb00dafc2f01fbe893a9a178316b5" />
+<Entry OldName="RTFConverter.My.MyProject.ThreadSafeObjectProvider`1.m_ThreadStaticValue" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c7886a9c6f695d44cff3322afbffb4f01`1.c70010e627680359097be118eb3e5c751" />
+<Entry OldName="RTFConverter.TamilRichtextconvert._Closure$__.$I" NewName="RTFConverter.TamilRichtextconvert._Closure$__.c0ea709cb2da4cda9a6ad278bf72cbbe9" />
+<Entry OldName="RTFConverter.TamilRichtextconvert._Closure$__.$I6-0" NewName="RTFConverter.TamilRichtextconvert._Closure$__.c124f8ff428dc5a5e3345241a275d784c" />
+<Entry OldName="RTFConverter.TamilRichtextconvert._Closure$__.$I6-1" NewName="RTFConverter.TamilRichtextconvert._Closure$__.ca1852311e247cbe454254a205dc6bce1" />
+<Entry OldName="RTFConverter.My.MyApplication..ctor()" NewName="A.c4f1eba5e293e470f60ce03155bbf2f03..ctor()" />
+<Entry OldName="RTFConverter.My.MyComputer..ctor()" NewName="A.cc5453d44f8f8a89720745c053bdafdcc..ctor()" />
+<Entry OldName="RTFConverter.My.MyProject..cctor()" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112..cctor()" />
+<Entry OldName="RTFConverter.My.MyProject.get_Computer()" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.get_c3fb6aa60c6ea7ab8f2c019120c8c72b1()" />
+<Entry OldName="RTFConverter.My.MyProject.get_Application()" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.get_c9842ec2b616460775f72b580307b1ed6()" />
+<Entry OldName="RTFConverter.My.MyProject.get_User()" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.get_cca0357e06e70d3232b1ad8dbb6916017()" />
+<Entry OldName="RTFConverter.My.MyProject.get_Forms()" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.get_cdb312b49a117fe6c43ab6065cc00d87e()" />
+<Entry OldName="RTFConverter.My.MyProject.get_WebServices()" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.get_c6864bb4806682572ff08bc6e179a4d40()" />
+<Entry OldName="RTFConverter.My.Resources.Resources.get_ResourceManager()" NewName="A.cddb8fa88e27ec9e97ddfbef612dc07fe.get_ResourceManager()" />
+<Entry OldName="RTFConverter.My.Resources.Resources.get_Culture()" NewName="A.cddb8fa88e27ec9e97ddfbef612dc07fe.get_Culture()" />
+<Entry OldName="RTFConverter.My.Resources.Resources.set_Culture(CultureInfo Value)" NewName="A.cddb8fa88e27ec9e97ddfbef612dc07fe.set_Culture(CultureInfo Value)" />
+<Entry OldName="RTFConverter.My.Resources.Resources.get_chips_footer()" NewName="A.cddb8fa88e27ec9e97ddfbef612dc07fe.get_chips_footer()" />
+<Entry OldName="RTFConverter.My.Resources.Resources.get_cwhome()" NewName="A.cddb8fa88e27ec9e97ddfbef612dc07fe.get_cwhome()" />
+<Entry OldName="RTFConverter.My.Resources.Resources.get_images()" NewName="A.cddb8fa88e27ec9e97ddfbef612dc07fe.get_images()" />
+<Entry OldName="RTFConverter.My.Resources.Resources.get_IndicLabs_logo()" NewName="A.cddb8fa88e27ec9e97ddfbef612dc07fe.get_IndicLabs_logo()" />
+<Entry OldName="RTFConverter.My.Resources.Resources.get_indiclabs_logo_name()" NewName="A.cddb8fa88e27ec9e97ddfbef612dc07fe.get_indiclabs_logo_name()" />
+<Entry OldName="RTFConverter.My.Resources.Resources.get_IndicLabs_logo1()" NewName="A.cddb8fa88e27ec9e97ddfbef612dc07fe.get_IndicLabs_logo1()" />
+<Entry OldName="RTFConverter.My.Resources.Resources.get_LogoA()" NewName="A.cddb8fa88e27ec9e97ddfbef612dc07fe.get_LogoA()" />
+<Entry OldName="RTFConverter.My.Resources.Resources.get_LogoB()" NewName="A.cddb8fa88e27ec9e97ddfbef612dc07fe.get_LogoB()" />
+<Entry OldName="RTFConverter.My.Resources.Resources.get_RTC_tamil()" NewName="A.cddb8fa88e27ec9e97ddfbef612dc07fe.get_RTC_tamil()" />
+<Entry OldName="RTFConverter.My.Resources.Resources.get_RTC_tamil1()" NewName="A.cddb8fa88e27ec9e97ddfbef612dc07fe.get_RTC_tamil1()" />
+<Entry OldName="RTFConverter.My.Resources.Resources.get_tva()" NewName="A.cddb8fa88e27ec9e97ddfbef612dc07fe.get_tva()" />
+<Entry OldName="RTFConverter.My.MySettingsProperty.get_Settings()" NewName="A.c4525edbcbc4ba47426e8b5cf725b20fb.get_Settings()" />
+<Entry OldName="RTFConverter.Form2..ctor()" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e..ctor()" />
+<Entry OldName="RTFConverter.Form2.Dispose(Boolean disposing)" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.Dispose(Boolean disposing)" />
+<Entry OldName="RTFConverter.Form2.InitializeComponent()" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.ce00a2031d130c0ed606de816feefed59()" />
+<Entry OldName="RTFConverter.Form2.get_remove_btn()" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.get_remove_btn()" />
+<Entry OldName="RTFConverter.Form2.set_remove_btn(Button WithEventsValue)" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.set_remove_btn(Button WithEventsValue)" />
+<Entry OldName="RTFConverter.Form2.get_exit_btn()" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.get_exit_btn()" />
+<Entry OldName="RTFConverter.Form2.set_exit_btn(Button WithEventsValue)" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.set_exit_btn(Button WithEventsValue)" />
+<Entry OldName="RTFConverter.Form2.get_setkey_btn()" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.get_setkey_btn()" />
+<Entry OldName="RTFConverter.Form2.set_setkey_btn(Button WithEventsValue)" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.set_setkey_btn(Button WithEventsValue)" />
+<Entry OldName="RTFConverter.Form2.get_name_lbl()" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.get_name_lbl()" />
+<Entry OldName="RTFConverter.Form2.set_name_lbl(Label WithEventsValue)" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.set_name_lbl(Label WithEventsValue)" />
+<Entry OldName="RTFConverter.Form2.get_name_box()" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.get_name_box()" />
+<Entry OldName="RTFConverter.Form2.set_name_box(TextBox WithEventsValue)" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.set_name_box(TextBox WithEventsValue)" />
+<Entry OldName="RTFConverter.Form2.get_message_lbl()" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.get_message_lbl()" />
+<Entry OldName="RTFConverter.Form2.set_message_lbl(Label WithEventsValue)" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.set_message_lbl(Label WithEventsValue)" />
+<Entry OldName="RTFConverter.Form2.get_key_lbl()" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.get_key_lbl()" />
+<Entry OldName="RTFConverter.Form2.set_key_lbl(Label WithEventsValue)" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.set_key_lbl(Label WithEventsValue)" />
+<Entry OldName="RTFConverter.Form2.get_mac_id_lbl()" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.get_mac_id_lbl()" />
+<Entry OldName="RTFConverter.Form2.set_mac_id_lbl(Label WithEventsValue)" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.set_mac_id_lbl(Label WithEventsValue)" />
+<Entry OldName="RTFConverter.Form2.get_message_box()" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.get_message_box()" />
+<Entry OldName="RTFConverter.Form2.set_message_box(TextBox WithEventsValue)" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.set_message_box(TextBox WithEventsValue)" />
+<Entry OldName="RTFConverter.Form2.get_key_box()" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.get_key_box()" />
+<Entry OldName="RTFConverter.Form2.set_key_box(TextBox WithEventsValue)" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.set_key_box(TextBox WithEventsValue)" />
+<Entry OldName="RTFConverter.Form2.get_mac_id_box()" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.get_mac_id_box()" />
+<Entry OldName="RTFConverter.Form2.set_mac_id_box(TextBox WithEventsValue)" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.set_mac_id_box(TextBox WithEventsValue)" />
+<Entry OldName="RTFConverter.Form2.get_ResourceManager()" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.get_ResourceManager()" />
+<Entry OldName="RTFConverter.Form2.get_Culture()" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.get_Culture()" />
+<Entry OldName="RTFConverter.Form2.set_Culture(CultureInfo Value)" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e.set_Culture(CultureInfo Value)" />
+<Entry OldName="RTFConverter.TamilRichtextconvert.totext(String hextext)" NewName="RTFConverter.TamilRichtextconvert.cdc0a369343ade5f20352a874879a666d(String c3ab248a45e40ec9425763ab4a6ea2d91)" />
+<Entry OldName="RTFConverter.TamilRichtextconvert.RemoveDuplicateChars(String key)" NewName="RTFConverter.TamilRichtextconvert.c16d8a0ebb5b7614e488a162171ff1864(String c360689e1f890d029198dff98e38f4b94)" />
+<Entry OldName="RTFConverter.TamilRichtextconvert.morethan127(String str)" NewName="RTFConverter.TamilRichtextconvert.c4c993a886463f5e2ae4be40d3f59c483(String c8263189133f708ba5f12330eb1cb547c)" />
+<Entry OldName="RTFConverter.TamilRichtextconvert.isonlyunicode(String str)" NewName="RTFConverter.TamilRichtextconvert.c37c56249bf52ee825a750ab5513db999(String c8263189133f708ba5f12330eb1cb547c)" />
+<Entry OldName="RTFConverter.TamilRichtextconvert.isthereunicode(String str)" NewName="RTFConverter.TamilRichtextconvert.cd97e0e5a1de2f0e955cd46048c3f1c50(String c8263189133f708ba5f12330eb1cb547c)" />
+<Entry OldName="RTFConverter.startup..cctor()" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f..cctor()" />
+<Entry OldName="RTFConverter.startup.main()" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.cf7141caeea50a5934d751979f40a1b73()" />
+<Entry OldName="RTFConverter.startup.totext(String hextext)" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.cdc0a369343ade5f20352a874879a666d(String c3ab248a45e40ec9425763ab4a6ea2d91)" />
+<Entry OldName="RTFConverter.startup.RemoveDuplicateChars(String key)" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f.c16d8a0ebb5b7614e488a162171ff1864(String c360689e1f890d029198dff98e38f4b94)" />
+<Entry OldName="RTFConverter.XtraConverter.InitializeComponent()" NewName="RTFConverter.XtraConverter.ce00a2031d130c0ed606de816feefed59()" />
+<Entry OldName="RTFConverter.XtraConverter.Button1_Click(Object sender, EventArgs e)" NewName="RTFConverter.XtraConverter.c37205a111afef5295a76a70a24a48d8c(Object cbce25c50a1579b26598e5738d1967928, EventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.LoadFiles(String initial, Boolean bool_includesubdirectory)" NewName="RTFConverter.XtraConverter.cb0f83a2c680bf22ac3992c2c2dab530f(String c00428994c9274e5eb05d60ad49444fea, Boolean cad7f4a2c0dcfa1d70545c7f6575bb19b)" />
+<Entry OldName="RTFConverter.XtraConverter.button_pullfiles_Click(Object sender, EventArgs e)" NewName="RTFConverter.XtraConverter.cfd2553ea187d3484eb4d7a7829e968f6(Object cbce25c50a1579b26598e5738d1967928, EventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.CheckBox1_CheckedChanged(Object sender, EventArgs e)" NewName="RTFConverter.XtraConverter.c0125512c34f00cdcbb57a2001ceeefbe(Object cbce25c50a1579b26598e5738d1967928, EventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.Button_Convertt(Object sender, EventArgs e)" NewName="RTFConverter.XtraConverter.c8c40388722882681dd5414ef16792f29(Object cbce25c50a1579b26598e5738d1967928, EventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.button_convert_VisibleChanged(Object sender, EventArgs e)" NewName="RTFConverter.XtraConverter.c59ffa88806bc30612643f5d5edbea589(Object cbce25c50a1579b26598e5738d1967928, EventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.BackgroundWorker1_DoWork(Object sender, DoWorkEventArgs e)" NewName="RTFConverter.XtraConverter.c4751a7120a31ee8cfcb68b210dd7b959(Object cbce25c50a1579b26598e5738d1967928, DoWorkEventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.button_cancel_Click(Object sender, EventArgs e)" NewName="RTFConverter.XtraConverter.c0a15bf0446e5ea4c1bef4e6fb9f1b598(Object cbce25c50a1579b26598e5738d1967928, EventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.BackgroundWorker1_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="RTFConverter.XtraConverter.c60721b7458dd819fd720538738864837(Object cbce25c50a1579b26598e5738d1967928, ProgressChangedEventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.BackgroundWorker1_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="RTFConverter.XtraConverter.c2e0e2597802e6fedee2226c9b1341431(Object cbce25c50a1579b26598e5738d1967928, RunWorkerCompletedEventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.XtraTabPage2_DragEnter(Object sender, DragEventArgs e)" NewName="RTFConverter.XtraConverter.cf8b08042e84c64ff98192c2e3887ff3f(Object cbce25c50a1579b26598e5738d1967928, DragEventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.TabPage2_DragEnter(Object sender, DragEventArgs e)" NewName="RTFConverter.XtraConverter.c21aa7f4e328b5d6416b177c12343e13a(Object cbce25c50a1579b26598e5738d1967928, DragEventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.TabPage2_DragDrop(Object sender, DragEventArgs e)" NewName="RTFConverter.XtraConverter.c5230a82bb584067dd3ff915adcb0385a(Object cbce25c50a1579b26598e5738d1967928, DragEventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.BackgroundWorker2_DoWork(Object sender, DoWorkEventArgs e)" NewName="RTFConverter.XtraConverter.cf7c7abb665cb23344315914a68da471b(Object cbce25c50a1579b26598e5738d1967928, DoWorkEventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.BackgroundWorker2_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="RTFConverter.XtraConverter.c0899a2fff368e60870cd0f533ffebc9f(Object cbce25c50a1579b26598e5738d1967928, RunWorkerCompletedEventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.Button2_Click_1(Object sender, EventArgs e)" NewName="RTFConverter.XtraConverter.c7ceaa80503908e78b8dba75fb1bd131e(Object cbce25c50a1579b26598e5738d1967928, EventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.Button5_Click(Object sender, EventArgs e)" NewName="RTFConverter.XtraConverter.cfeddc614ceb50f1a8adf652d776c9d37(Object cbce25c50a1579b26598e5738d1967928, EventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.Button3_Click(Object sender, EventArgs e)" NewName="RTFConverter.XtraConverter.c686bf601863d7794830f3b9c7f7bb892(Object cbce25c50a1579b26598e5738d1967928, EventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.Button4_Click(Object sender, EventArgs e)" NewName="RTFConverter.XtraConverter.cb31a64a6639dbb08f4e3bcfa4d617898(Object cbce25c50a1579b26598e5738d1967928, EventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.unicode_checked_CheckedChanged(Object sender, EventArgs e)" NewName="RTFConverter.XtraConverter.c27daa5cb30a77ed289ad7db7ddde21e6(Object cbce25c50a1579b26598e5738d1967928, EventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.Vanavil_checked_CheckedChanged(Object sender, EventArgs e)" NewName="RTFConverter.XtraConverter.c8832cc87655a7e6a4d4654125a0ecfd7(Object cbce25c50a1579b26598e5738d1967928, EventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.Converter_Load(Object sender, EventArgs e)" NewName="RTFConverter.XtraConverter.c08b46244563b5591e19774eabececb12(Object cbce25c50a1579b26598e5738d1967928, EventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.button7_Click(Object sender, EventArgs e)" NewName="RTFConverter.XtraConverter.c23c62a83be648b58888d1ddd01025d06(Object cbce25c50a1579b26598e5738d1967928, EventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.button_clearfiles_Click(Object sender, EventArgs e)" NewName="RTFConverter.XtraConverter.c4f89f039b0a2cb614e0479ed09518f86(Object cbce25c50a1579b26598e5738d1967928, EventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.lstfiles_Resize(Object sender, EventArgs e)" NewName="RTFConverter.XtraConverter.cb880ebbcb2bcd4ec9ebc6fede8bd859b(Object cbce25c50a1579b26598e5738d1967928, EventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.SizeLastColumn(ListView lv)" NewName="RTFConverter.XtraConverter.c095984477aa16f33f96306880bb12d6e(ListView cf91153dbc1776aa7982c86a9ba9b5e03)" />
+<Entry OldName="RTFConverter.XtraConverter.lstfiles_DrawColumnHeader(Object sender, DrawListViewColumnHeaderEventArgs e)" NewName="RTFConverter.XtraConverter.c9626fa022c7da8de7e4a4014531caa08(Object cbce25c50a1579b26598e5738d1967928, DrawListViewColumnHeaderEventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.XtraConverter.lstfiles_DrawItem(Object sender, DrawListViewItemEventArgs e)" NewName="RTFConverter.XtraConverter.c445d192f66775ba2ff55ccded20dead6(Object cbce25c50a1579b26598e5738d1967928, DrawListViewItemEventArgs cc78f1a595e16ec66f23e440fc981d574)" />
+<Entry OldName="RTFConverter.My.MyProject.MyForms..ctor()" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c849758404c4a9c75f8aff3d3b0ddb86c..ctor()" />
+<Entry OldName="RTFConverter.My.MyProject.MyForms.Create__Instance__[T](T Instance)" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c849758404c4a9c75f8aff3d3b0ddb86c.c2a3d4ab6a18224e3f7fb26ca2a7e9302[cac50cc8a61b37b706933e284d7a3f365](cac50cc8a61b37b706933e284d7a3f365 c0365c10cb7180ff554a4779e0af85a56)" />
+<Entry OldName="RTFConverter.My.MyProject.MyForms.Dispose__Instance__[T](T&amp; instance)" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c849758404c4a9c75f8aff3d3b0ddb86c.c0447d6164b833a225e1ca19ec12513a7[cac50cc8a61b37b706933e284d7a3f365](cac50cc8a61b37b706933e284d7a3f365&amp; c57ea317e3c2ae9945c45a2934f7ba4ce)" />
+<Entry OldName="RTFConverter.My.MyProject.MyForms.Equals(Object o)" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c849758404c4a9c75f8aff3d3b0ddb86c.Equals(Object o)" />
+<Entry OldName="RTFConverter.My.MyProject.MyForms.GetHashCode()" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c849758404c4a9c75f8aff3d3b0ddb86c.GetHashCode()" />
+<Entry OldName="RTFConverter.My.MyProject.MyForms.GetType()" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c849758404c4a9c75f8aff3d3b0ddb86c.c6dfd253e5cd0f0e39fbcdd3073014bb9()" />
+<Entry OldName="RTFConverter.My.MyProject.MyForms.ToString()" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c849758404c4a9c75f8aff3d3b0ddb86c.ToString()" />
+<Entry OldName="RTFConverter.My.MyProject.MyForms.get_XtraConverter()" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c849758404c4a9c75f8aff3d3b0ddb86c.get_c56cd24f749a7a48f02394bd499acbbc8()" />
+<Entry OldName="RTFConverter.My.MyProject.MyForms.set_XtraConverter(XtraConverter Value)" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c849758404c4a9c75f8aff3d3b0ddb86c.set_c56cd24f749a7a48f02394bd499acbbc8(XtraConverter cdec72ecd34e028962f4b6090be16221e)" />
+<Entry OldName="RTFConverter.My.MyProject.MyWebServices..ctor()" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c1a78f04d9ee1727e67c84f3485daa7d2..ctor()" />
+<Entry OldName="RTFConverter.My.MyProject.MyWebServices.Equals(Object o)" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c1a78f04d9ee1727e67c84f3485daa7d2.Equals(Object o)" />
+<Entry OldName="RTFConverter.My.MyProject.MyWebServices.GetHashCode()" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c1a78f04d9ee1727e67c84f3485daa7d2.GetHashCode()" />
+<Entry OldName="RTFConverter.My.MyProject.MyWebServices.GetType()" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c1a78f04d9ee1727e67c84f3485daa7d2.c6dfd253e5cd0f0e39fbcdd3073014bb9()" />
+<Entry OldName="RTFConverter.My.MyProject.MyWebServices.ToString()" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c1a78f04d9ee1727e67c84f3485daa7d2.ToString()" />
+<Entry OldName="RTFConverter.My.MyProject.MyWebServices.Create__Instance__[T](T instance)" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c1a78f04d9ee1727e67c84f3485daa7d2.c2a3d4ab6a18224e3f7fb26ca2a7e9302[cac50cc8a61b37b706933e284d7a3f365](cac50cc8a61b37b706933e284d7a3f365 c57ea317e3c2ae9945c45a2934f7ba4ce)" />
+<Entry OldName="RTFConverter.My.MyProject.MyWebServices.Dispose__Instance__[T](T&amp; instance)" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c1a78f04d9ee1727e67c84f3485daa7d2.c0447d6164b833a225e1ca19ec12513a7[cac50cc8a61b37b706933e284d7a3f365](cac50cc8a61b37b706933e284d7a3f365&amp; c57ea317e3c2ae9945c45a2934f7ba4ce)" />
+<Entry OldName="RTFConverter.My.MyProject.ThreadSafeObjectProvider`1..ctor()" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c7886a9c6f695d44cff3322afbffb4f01`1..ctor()" />
+<Entry OldName="RTFConverter.My.MyProject.ThreadSafeObjectProvider`1.get_GetInstance()" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112.c7886a9c6f695d44cff3322afbffb4f01`1.get_cbb6aab04b30c69d2ecf6b6e38422f1b6()" />
+<Entry OldName="RTFConverter.TamilRichtextconvert._Closure$__._Lambda$__6-0(Run c)" NewName="RTFConverter.TamilRichtextconvert._Closure$__.c610f3f6ec733bb025b88e75c94e31b98(Run cdb355c4be2ea357fb37aec6ff6f4fef4)" />
+<Entry OldName="RTFConverter.TamilRichtextconvert._Closure$__._Lambda$__6-1(Paragraph c)" NewName="RTFConverter.TamilRichtextconvert._Closure$__.cd5457d3627ece74870892935c7cd081a(Paragraph cdb355c4be2ea357fb37aec6ff6f4fef4)" />
+<Entry OldName="RTFConverter.My.MyApplication" NewName="A.c4f1eba5e293e470f60ce03155bbf2f03" />
+<Entry OldName="RTFConverter.My.MyComputer" NewName="A.cc5453d44f8f8a89720745c053bdafdcc" />
+<Entry OldName="RTFConverter.My.MyProject+MyForms" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112+c849758404c4a9c75f8aff3d3b0ddb86c" />
+<Entry OldName="RTFConverter.My.MyProject+MyWebServices" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112+c1a78f04d9ee1727e67c84f3485daa7d2" />
+<Entry OldName="RTFConverter.My.MyProject+ThreadSafeObjectProvider`1" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112+c7886a9c6f695d44cff3322afbffb4f01`1" />
+<Entry OldName="RTFConverter.My.MyProject" NewName="A.c9cc42feb36c21f7c5d93f618abe9a112" />
+<Entry OldName="RTFConverter.My.Resources.Resources" NewName="A.cddb8fa88e27ec9e97ddfbef612dc07fe" />
+<Entry OldName="RTFConverter.My.MySettingsProperty" NewName="A.c4525edbcbc4ba47426e8b5cf725b20fb" />
+<Entry OldName="RTFConverter.Form2" NewName="A.c9abf458b56a3463e9008fbc5fe1e1d9e" />
+<Entry OldName="RTFConverter.startup" NewName="A.cebbe030ff3ffbfe47bb3f4fa56bf662f" />
+<Assembly Name="IndicLabs_DocumentConverter"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="RTFConverter.My.MyApplication" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Type Token="33554436" Name="RTFConverter.My.MyComputer" />
+<Method Token="100663300" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Type Token="33554438" Name="RTFConverter.My.MyProject" />
+<Method Token="100663307" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663308" Name="get_Computer" Variables="" ParamCnt="0" />
+<Method Token="100663309" Name="get_Application" Variables="" ParamCnt="0" />
+<Method Token="100663310" Name="get_User" Variables="" ParamCnt="0" />
+<Method Token="100663311" Name="get_Forms" Variables="" ParamCnt="0" />
+<Method Token="100663312" Name="get_WebServices" Variables="" ParamCnt="0" />
+<Field Token="67108866" Name="m_ComputerObjectProvider" />
+<Field Token="67108867" Name="m_AppObjectProvider" />
+<Field Token="67108868" Name="m_UserObjectProvider" />
+<Field Token="67108869" Name="m_MyFormsObjectProvider" />
+<Field Token="67108870" Name="m_MyWebServicesObjectProvider" />
+<Type Token="33554439" Name="RTFConverter.My.Resources.Resources" />
+<Method Token="100663313" Name="get_ResourceManager" Variables="" ParamCnt="0" />
+<Method Token="100663314" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663315" Name="set_Culture" Variables="Value;" ParamCnt="1" />
+<Method Token="100663316" Name="get_chips_footer" Variables="" ParamCnt="0" />
+<Method Token="100663317" Name="get_cwhome" Variables="" ParamCnt="0" />
+<Method Token="100663318" Name="get_images" Variables="" ParamCnt="0" />
+<Method Token="100663319" Name="get_IndicLabs_logo" Variables="" ParamCnt="0" />
+<Method Token="100663320" Name="get_indiclabs_logo_name" Variables="" ParamCnt="0" />
+<Method Token="100663321" Name="get_IndicLabs_logo1" Variables="" ParamCnt="0" />
+<Method Token="100663322" Name="get_LogoA" Variables="" ParamCnt="0" />
+<Method Token="100663323" Name="get_LogoB" Variables="" ParamCnt="0" />
+<Method Token="100663324" Name="get_RTC_tamil" Variables="" ParamCnt="0" />
+<Method Token="100663325" Name="get_RTC_tamil1" Variables="" ParamCnt="0" />
+<Method Token="100663326" Name="get_tva" Variables="" ParamCnt="0" />
+<Field Token="67108871" Name="resourceMan" />
+<Field Token="67108872" Name="resourceCulture" />
+<Type Token="33554440" Name="RTFConverter.My.MySettings" />
+<Method Token="100663327" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663328" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663329" Name="get_Default" Variables="" ParamCnt="0" />
+<Method Token="100663330" Name="get_myData" Variables="this;" ParamCnt="1" />
+<Field Token="67108873" Name="defaultInstance" />
+<Type Token="33554442" Name="RTFConverter.My.MySettingsProperty" />
+<Method Token="100663338" Name="get_Settings" Variables="" ParamCnt="0" />
+<Type Token="33554443" Name="RTFConverter.Form2" />
+<Method Token="100663339" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663340" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663341" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663342" Name="get_remove_btn" Variables="this;" ParamCnt="1" />
+<Method Token="100663343" Name="set_remove_btn" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663344" Name="get_exit_btn" Variables="this;" ParamCnt="1" />
+<Method Token="100663345" Name="set_exit_btn" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663346" Name="get_setkey_btn" Variables="this;" ParamCnt="1" />
+<Method Token="100663347" Name="set_setkey_btn" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663348" Name="get_name_lbl" Variables="this;" ParamCnt="1" />
+<Method Token="100663349" Name="set_name_lbl" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663350" Name="get_name_box" Variables="this;" ParamCnt="1" />
+<Method Token="100663351" Name="set_name_box" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663352" Name="get_message_lbl" Variables="this;" ParamCnt="1" />
+<Method Token="100663353" Name="set_message_lbl" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663354" Name="get_key_lbl" Variables="this;" ParamCnt="1" />
+<Method Token="100663355" Name="set_key_lbl" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663356" Name="get_mac_id_lbl" Variables="this;" ParamCnt="1" />
+<Method Token="100663357" Name="set_mac_id_lbl" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663358" Name="get_message_box" Variables="this;" ParamCnt="1" />
+<Method Token="100663359" Name="set_message_box" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663360" Name="get_key_box" Variables="this;" ParamCnt="1" />
+<Method Token="100663361" Name="set_key_box" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663362" Name="get_mac_id_box" Variables="this;" ParamCnt="1" />
+<Method Token="100663363" Name="set_mac_id_box" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663364" Name="get_ResourceManager" Variables="" ParamCnt="0" />
+<Method Token="100663365" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663366" Name="set_Culture" Variables="Value;" ParamCnt="1" />
+<Field Token="67108876" Name="components" />
+<Field Token="67108877" Name="_remove_btn" />
+<Field Token="67108878" Name="_exit_btn" />
+<Field Token="67108879" Name="_setkey_btn" />
+<Field Token="67108880" Name="_name_lbl" />
+<Field Token="67108881" Name="_name_box" />
+<Field Token="67108882" Name="_message_lbl" />
+<Field Token="67108883" Name="_key_lbl" />
+<Field Token="67108884" Name="_mac_id_lbl" />
+<Field Token="67108885" Name="_message_box" />
+<Field Token="67108886" Name="_key_box" />
+<Field Token="67108887" Name="_mac_id_box" />
+<Field Token="67108888" Name="resourceMan" />
+<Field Token="67108889" Name="resourceCulture" />
+<Type Token="33554444" Name="RTFConverter.TamilRichtextconvert" />
+<Method Token="100663367" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663368" Name="loadd" Variables="this;" ParamCnt="1" />
+<Method Token="100663369" Name="totext" Variables="this;hextext;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663370" Name="RemoveDuplicateChars" Variables="this;key;V_0;V_1;V_2;V_3;V_4;" ParamCnt="2" />
+<Method Token="100663371" Name="processgemtovanavil" Variables="this;fname;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;" ParamCnt="2" />
+<Method Token="100663372" Name="processgemtounicode" Variables="this;fname;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="2" />
+<Method Token="100663373" Name="morethan127" Variables="this;str;V_0;V_1;V_2;V_3;V_4;" ParamCnt="2" />
+<Method Token="100663374" Name="isonlyunicode" Variables="this;str;V_0;V_1;V_2;V_3;V_4;" ParamCnt="2" />
+<Method Token="100663375" Name="isthereunicode" Variables="this;str;V_0;V_1;V_2;V_3;V_4;" ParamCnt="2" />
+<Method Token="100663376" Name="convert" Variables="this;fromm;too;str;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;" ParamCnt="4" />
+<Method Token="100663377" Name="processfile" Variables="this;" ParamCnt="1" />
+<Field Token="67108890" Name="drag_drop" />
+<Field Token="67108891" Name="file_path" />
+<Field Token="67108892" Name="mInitialDirectory" />
+<Type Token="33554445" Name="RTFConverter.startup" />
+<Method Token="100663378" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663379" Name="main" Variables="V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="0" />
+<Method Token="100663380" Name="totext" Variables="hextext;V_0;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663381" Name="RemoveDuplicateChars" Variables="key;V_0;V_1;V_2;V_3;V_4;" ParamCnt="1" />
+<Field Token="67108893" Name="isunicodechecked" />
+<Field Token="67108894" Name="totxmls" />
+<Field Token="67108895" Name="savefrom" />
+<Field Token="67108896" Name="saveto" />
+<Field Token="67108897" Name="special" />
+<Field Token="67108898" Name="uninumber" />
+<Field Token="67108899" Name="docfonts" />
+<Field Token="67108900" Name="src1" />
+<Field Token="67108901" Name="tgt1" />
+<Field Token="67108902" Name="src2" />
+<Field Token="67108903" Name="tgt2" />
+<Field Token="67108904" Name="uni1" />
+<Field Token="67108905" Name="uni2" />
+<Field Token="67108906" Name="srcc1" />
+<Field Token="67108907" Name="srcc2" />
+<Field Token="67108908" Name="src_count" />
+<Field Token="67108909" Name="tgt_count" />
+<Field Token="67108910" Name="uni_count" />
+<Field Token="67108911" Name="srcc_count" />
+<Field Token="67108912" Name="fromenc" />
+<Field Token="67108913" Name="toenc" />
+<Field Token="67108914" Name="fromfont" />
+<Field Token="67108915" Name="totamfont" />
+<Field Token="67108916" Name="toengfont" />
+<Field Token="67108917" Name="totamsizer" />
+<Field Token="67108918" Name="toengsizer" />
+<Field Token="67108919" Name="fromencstatus" />
+<Field Token="67108920" Name="srcfont" />
+<Field Token="67108921" Name="srcenc" />
+<Field Token="67108922" Name="srccum" />
+<Field Token="67108923" Name="srccount" />
+<Field Token="67108924" Name="src" />
+<Field Token="67108925" Name="srccnt" />
+<Field Token="67108926" Name="loaded" />
+<Field Token="67108927" Name="targetdir" />
+<Type Token="33554446" Name="RTFConverter.XtraConverter" />
+<Method Token="100663382" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663383" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663384" Name="InitializeComponent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663385" Name="get_XtraTabControl1" Variables="this;" ParamCnt="1" />
+<Method Token="100663386" Name="set_XtraTabControl1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663387" Name="get_XtraTabPage1" Variables="this;" ParamCnt="1" />
+<Method Token="100663388" Name="set_XtraTabPage1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663389" Name="get_XtraTabPage2" Variables="this;" ParamCnt="1" />
+<Method Token="100663390" Name="set_XtraTabPage2" Variables="this;WithEventsValue;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663391" Name="get_XtraTabPage3" Variables="this;" ParamCnt="1" />
+<Method Token="100663392" Name="set_XtraTabPage3" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663393" Name="get_XtraTabPage4" Variables="this;" ParamCnt="1" />
+<Method Token="100663394" Name="set_XtraTabPage4" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663395" Name="get_GroupControl1" Variables="this;" ParamCnt="1" />
+<Method Token="100663396" Name="set_GroupControl1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663397" Name="get_button_clearfiles" Variables="this;" ParamCnt="1" />
+<Method Token="100663398" Name="set_button_clearfiles" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663399" Name="get_button_pullfiles" Variables="this;" ParamCnt="1" />
+<Method Token="100663400" Name="set_button_pullfiles" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663401" Name="get_childlocation" Variables="this;" ParamCnt="1" />
+<Method Token="100663402" Name="set_childlocation" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663403" Name="get_GroupControl4" Variables="this;" ParamCnt="1" />
+<Method Token="100663404" Name="set_GroupControl4" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663405" Name="get_TableLayoutPanel1" Variables="this;" ParamCnt="1" />
+<Method Token="100663406" Name="set_TableLayoutPanel1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663407" Name="get_Button1" Variables="this;" ParamCnt="1" />
+<Method Token="100663408" Name="set_Button1" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663409" Name="get_parentlocation" Variables="this;" ParamCnt="1" />
+<Method Token="100663410" Name="set_parentlocation" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663411" Name="get_GroupControl2" Variables="this;" ParamCnt="1" />
+<Method Token="100663412" Name="set_GroupControl2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663413" Name="get_check_fileselection" Variables="this;" ParamCnt="1" />
+<Method Token="100663414" Name="set_check_fileselection" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663415" Name="get_GroupControl3" Variables="this;" ParamCnt="1" />
+<Method Token="100663416" Name="set_GroupControl3" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663417" Name="get_button_cancel" Variables="this;" ParamCnt="1" />
+<Method Token="100663418" Name="set_button_cancel" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663419" Name="get_button_convert" Variables="this;" ParamCnt="1" />
+<Method Token="100663420" Name="set_button_convert" Variables="this;WithEventsValue;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663421" Name="get_TableLayoutPanel4" Variables="this;" ParamCnt="1" />
+<Method Token="100663422" Name="set_TableLayoutPanel4" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663423" Name="get_Vanavil_checked" Variables="this;" ParamCnt="1" />
+<Method Token="100663424" Name="set_Vanavil_checked" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663425" Name="get_unicode_checked" Variables="this;" ParamCnt="1" />
+<Method Token="100663426" Name="set_unicode_checked" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663427" Name="get_FolderBrowserDialog" Variables="this;" ParamCnt="1" />
+<Method Token="100663428" Name="set_FolderBrowserDialog" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663429" Name="get_BackgroundWorker1" Variables="this;" ParamCnt="1" />
+<Method Token="100663430" Name="set_BackgroundWorker1" Variables="this;WithEventsValue;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663431" Name="get_BackgroundWorker2" Variables="this;" ParamCnt="1" />
+<Method Token="100663432" Name="set_BackgroundWorker2" Variables="this;WithEventsValue;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663433" Name="get_FolderBrowserDialog1" Variables="this;" ParamCnt="1" />
+<Method Token="100663434" Name="set_FolderBrowserDialog1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663435" Name="get_TableLayoutPanel2" Variables="this;" ParamCnt="1" />
+<Method Token="100663436" Name="set_TableLayoutPanel2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663437" Name="get_TableLayoutPanel5" Variables="this;" ParamCnt="1" />
+<Method Token="100663438" Name="set_TableLayoutPanel5" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663439" Name="get_TableLayoutPanel6" Variables="this;" ParamCnt="1" />
+<Method Token="100663440" Name="set_TableLayoutPanel6" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663441" Name="get_Vanavil_checked2" Variables="this;" ParamCnt="1" />
+<Method Token="100663442" Name="set_Vanavil_checked2" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663443" Name="get_unicode_checked2" Variables="this;" ParamCnt="1" />
+<Method Token="100663444" Name="set_unicode_checked2" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663445" Name="get_Button5" Variables="this;" ParamCnt="1" />
+<Method Token="100663446" Name="set_Button5" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663447" Name="get_Button3" Variables="this;" ParamCnt="1" />
+<Method Token="100663448" Name="set_Button3" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663449" Name="get_Button2" Variables="this;" ParamCnt="1" />
+<Method Token="100663450" Name="set_Button2" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663451" Name="get_Button4" Variables="this;" ParamCnt="1" />
+<Method Token="100663452" Name="set_Button4" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663453" Name="get_TextBox1" Variables="this;" ParamCnt="1" />
+<Method Token="100663454" Name="set_TextBox1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663455" Name="get_TextBox2" Variables="this;" ParamCnt="1" />
+<Method Token="100663456" Name="set_TextBox2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663457" Name="get_Label10" Variables="this;" ParamCnt="1" />
+<Method Token="100663458" Name="set_Label10" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663459" Name="get_Panel1" Variables="this;" ParamCnt="1" />
+<Method Token="100663460" Name="set_Panel1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663461" Name="get_Label1" Variables="this;" ParamCnt="1" />
+<Method Token="100663462" Name="set_Label1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663463" Name="get_TableLayoutPanel7" Variables="this;" ParamCnt="1" />
+<Method Token="100663464" Name="set_TableLayoutPanel7" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663465" Name="get_unicode_checked1" Variables="this;" ParamCnt="1" />
+<Method Token="100663466" Name="set_unicode_checked1" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663467" Name="get_Vanavil_checked1" Variables="this;" ParamCnt="1" />
+<Method Token="100663468" Name="set_Vanavil_checked1" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663469" Name="get_DefaultLookAndFeel1" Variables="this;" ParamCnt="1" />
+<Method Token="100663470" Name="set_DefaultLookAndFeel1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663471" Name="get_button7" Variables="this;" ParamCnt="1" />
+<Method Token="100663472" Name="set_button7" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663473" Name="get_TableLayoutPanel11" Variables="this;" ParamCnt="1" />
+<Method Token="100663474" Name="set_TableLayoutPanel11" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663475" Name="get_TableLayoutPanel3" Variables="this;" ParamCnt="1" />
+<Method Token="100663476" Name="set_TableLayoutPanel3" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663477" Name="get_TableLayoutPanel12" Variables="this;" ParamCnt="1" />
+<Method Token="100663478" Name="set_TableLayoutPanel12" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663479" Name="get_lstFiles" Variables="this;" ParamCnt="1" />
+<Method Token="100663480" Name="set_lstFiles" Variables="this;WithEventsValue;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663481" Name="get_colFile" Variables="this;" ParamCnt="1" />
+<Method Token="100663482" Name="set_colFile" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663483" Name="get_colStatus" Variables="this;" ParamCnt="1" />
+<Method Token="100663484" Name="set_colStatus" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663485" Name="get_colcolor" Variables="this;" ParamCnt="1" />
+<Method Token="100663486" Name="set_colcolor" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663487" Name="get_ColOutput" Variables="this;" ParamCnt="1" />
+<Method Token="100663488" Name="set_ColOutput" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663489" Name="get_ProgressBar1" Variables="this;" ParamCnt="1" />
+<Method Token="100663490" Name="set_ProgressBar1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663491" Name="get_LabelControl1" Variables="this;" ParamCnt="1" />
+<Method Token="100663492" Name="set_LabelControl1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663493" Name="get_PictureBox1" Variables="this;" ParamCnt="1" />
+<Method Token="100663494" Name="set_PictureBox1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663495" Name="get_Label2" Variables="this;" ParamCnt="1" />
+<Method Token="100663496" Name="set_Label2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663497" Name="get_PictureBox2" Variables="this;" ParamCnt="1" />
+<Method Token="100663498" Name="set_PictureBox2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663499" Name="Button1_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663500" Name="LoadFiles" Variables="this;initial;bool_includesubdirectory;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;" ParamCnt="3" />
+<Method Token="100663501" Name="button_pullfiles_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663502" Name="customgetFiles" Variables="this;SourceFolder;Filter;searchOption;V_0;V_1;V_2;V_3;" ParamCnt="4" />
+<Method Token="100663503" Name="CheckBox1_CheckedChanged" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663504" Name="Button_Convertt" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;" ParamCnt="3" />
+<Method Token="100663505" Name="button_convert_VisibleChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663506" Name="BackgroundWorker1_DoWork" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663507" Name="button_cancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663508" Name="BackgroundWorker1_ProgressChanged" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663509" Name="BackgroundWorker1_RunWorkerCompleted" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663510" Name="XtraTabPage2_DragEnter" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663511" Name="TabPage2_DragEnter" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663512" Name="TabPage2_DragDrop" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663513" Name="BackgroundWorker2_DoWork" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;" ParamCnt="3" />
+<Method Token="100663514" Name="BackgroundWorker2_RunWorkerCompleted" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663515" Name="Button2_Click_1" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663516" Name="Button5_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663517" Name="Button3_Click" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663518" Name="Button4_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663519" Name="unicode_checked_CheckedChanged" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663520" Name="Vanavil_checked_CheckedChanged" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663521" Name="Converter_Load" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663522" Name="button7_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663523" Name="button_clearfiles_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663524" Name="lstfiles_Resize" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663525" Name="SizeLastColumn" Variables="this;lv;" ParamCnt="2" />
+<Method Token="100663526" Name="lstfiles_DrawColumnHeader" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663527" Name="lstfiles_DrawItem" Variables="this;sender;e;" ParamCnt="3" />
+<Field Token="67108928" Name="components" />
+<Field Token="67108929" Name="_XtraTabControl1" />
+<Field Token="67108930" Name="_XtraTabPage1" />
+<Field Token="67108931" Name="_XtraTabPage2" />
+<Field Token="67108932" Name="_XtraTabPage3" />
+<Field Token="67108933" Name="_XtraTabPage4" />
+<Field Token="67108934" Name="_GroupControl1" />
+<Field Token="67108935" Name="_button_clearfiles" />
+<Field Token="67108936" Name="_button_pullfiles" />
+<Field Token="67108937" Name="_childlocation" />
+<Field Token="67108938" Name="_GroupControl4" />
+<Field Token="67108939" Name="_TableLayoutPanel1" />
+<Field Token="67108940" Name="_Button1" />
+<Field Token="67108941" Name="_parentlocation" />
+<Field Token="67108942" Name="_GroupControl2" />
+<Field Token="67108943" Name="_check_fileselection" />
+<Field Token="67108944" Name="_GroupControl3" />
+<Field Token="67108945" Name="_button_cancel" />
+<Field Token="67108946" Name="_button_convert" />
+<Field Token="67108947" Name="_TableLayoutPanel4" />
+<Field Token="67108948" Name="_Vanavil_checked" />
+<Field Token="67108949" Name="_unicode_checked" />
+<Field Token="67108950" Name="_FolderBrowserDialog" />
+<Field Token="67108951" Name="_BackgroundWorker1" />
+<Field Token="67108952" Name="_BackgroundWorker2" />
+<Field Token="67108953" Name="_FolderBrowserDialog1" />
+<Field Token="67108954" Name="_TableLayoutPanel2" />
+<Field Token="67108955" Name="_TableLayoutPanel5" />
+<Field Token="67108956" Name="_TableLayoutPanel6" />
+<Field Token="67108957" Name="_Vanavil_checked2" />
+<Field Token="67108958" Name="_unicode_checked2" />
+<Field Token="67108959" Name="_Button5" />
+<Field Token="67108960" Name="_Button3" />
+<Field Token="67108961" Name="_Button2" />
+<Field Token="67108962" Name="_Button4" />
+<Field Token="67108963" Name="_TextBox1" />
+<Field Token="67108964" Name="_TextBox2" />
+<Field Token="67108965" Name="_Label10" />
+<Field Token="67108966" Name="_Panel1" />
+<Field Token="67108967" Name="_Label1" />
+<Field Token="67108968" Name="_TableLayoutPanel7" />
+<Field Token="67108969" Name="_unicode_checked1" />
+<Field Token="67108970" Name="_Vanavil_checked1" />
+<Field Token="67108971" Name="_DefaultLookAndFeel1" />
+<Field Token="67108972" Name="_button7" />
+<Field Token="67108973" Name="_TableLayoutPanel11" />
+<Field Token="67108974" Name="_TableLayoutPanel3" />
+<Field Token="67108975" Name="_TableLayoutPanel12" />
+<Field Token="67108976" Name="_lstFiles" />
+<Field Token="67108977" Name="_colFile" />
+<Field Token="67108978" Name="_colStatus" />
+<Field Token="67108979" Name="_colcolor" />
+<Field Token="67108980" Name="_ColOutput" />
+<Field Token="67108981" Name="_ProgressBar1" />
+<Field Token="67108982" Name="_LabelControl1" />
+<Field Token="67108983" Name="_PictureBox1" />
+<Field Token="67108984" Name="_Label2" />
+<Field Token="67108985" Name="_PictureBox2" />
+<Field Token="67108986" Name="_threads" />
+<Field Token="67108987" Name="_instances" />
+<Field Token="67108988" Name="_activeConvertCount" />
+<Field Token="67108989" Name="checkedfilepaths" />
+<Field Token="67108990" Name="checkedindex" />
+<Field Token="67108991" Name="checkedtimetaken" />
+<Field Token="67108992" Name="checkedcount" />
+<Field Token="67108993" Name="totalprogressvalue" />
+<Field Token="67108994" Name="currentprogressvalue" />
+<Field Token="67108995" Name="dragdropfiles" />
+<Field Token="67108996" Name="dragdropduration" />
+<Type Token="33554447" Name="RTFConverter.My.MyProject/MyForms" />
+<Method Token="100663528" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663529" Name="Create__Instance__" Variables="Instance;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663530" Name="Dispose__Instance__" Variables="this;instance;" ParamCnt="2" />
+<Method Token="100663531" Name="Equals" Variables="this;o;" ParamCnt="2" />
+<Method Token="100663532" Name="GetHashCode" Variables="this;" ParamCnt="1" />
+<Method Token="100663533" Name="GetType" Variables="this;" ParamCnt="1" />
+<Method Token="100663534" Name="ToString" Variables="this;" ParamCnt="1" />
+<Method Token="100663535" Name="get_XtraConverter" Variables="this;" ParamCnt="1" />
+<Method Token="100663536" Name="set_XtraConverter" Variables="this;Value;" ParamCnt="2" />
+<Field Token="67108997" Name="m_FormBeingCreated" />
+<Field Token="67108998" Name="m_XtraConverter" />
+<Type Token="33554449" Name="RTFConverter.My.MyProject/MyWebServices" />
+<Method Token="100663544" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663545" Name="Equals" Variables="this;o;" ParamCnt="2" />
+<Method Token="100663546" Name="GetHashCode" Variables="this;" ParamCnt="1" />
+<Method Token="100663547" Name="GetType" Variables="this;" ParamCnt="1" />
+<Method Token="100663548" Name="ToString" Variables="this;" ParamCnt="1" />
+<Method Token="100663549" Name="Create__Instance__" Variables="instance;V_0;" ParamCnt="1" />
+<Method Token="100663550" Name="Dispose__Instance__" Variables="this;instance;" ParamCnt="2" />
+<Type Token="33554450" Name="RTFConverter.My.MyProject/ThreadSafeObjectProvider`1" />
+<Method Token="100663551" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663552" Name="get_GetInstance" Variables="this;" ParamCnt="1" />
+<Field Token="67109001" Name="m_ThreadStaticValue" />
+<Type Token="33554452" Name="RTFConverter.TamilRichtextconvert/_Closure$__" />
+<Method Token="100663556" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663557" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663558" Name="_Lambda$__6-0" Variables="this;c;" ParamCnt="2" />
+<Method Token="100663559" Name="_Lambda$__6-1" Variables="this;c;" ParamCnt="2" />
+<Field Token="67109003" Name="$I" />
+<Field Token="67109004" Name="$I6-0" />
+<Field Token="67109005" Name="$I6-1" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663299" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>

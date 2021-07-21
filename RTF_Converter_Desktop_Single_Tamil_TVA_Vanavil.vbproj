@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DE262AC7-B4AA-48AD-B120-74E9C9CC0A4A}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>IndicLabs_DocumentConverter</AssemblyName>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>RTFConverter</RootNamespace>
+    <StartupObject>RTFConverter.startup</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>IndicLabs_DocumentConverter.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>IndicLabs_DocumentConverter.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>none</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v11.1, Version=11.1.12.0, Culture=neutral, PublicKeyToken=95fc6c5621878f0a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v11.1, Version=11.1.12.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.OfficeSkins.v11.1, Version=11.1.12.0, Culture=neutral, PublicKeyToken=95fc6c5621878f0a" />
+    <Reference Include="DevExpress.Printing.v11.1.Core, Version=11.1.12.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v11.1, Version=11.1.12.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Win.Projects.v11.1.Design, Version=11.1.12.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v11.1, Version=11.1.12.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\DevExpress 2011.1\Components\Sources\DevExpress.DLL\DevExpress.XtraEditors.v11.1.dll</HintPath>
+    </Reference>
+    <Reference Include="EnvDTE, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="GemBox.Document, Version=25.3.30.1231, Culture=neutral, PublicKeyToken=b1b72c69714d4847, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\GemBox.Document.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <Reference Include="VSLangProj, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb" />
+    <Compile Include="Form21.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Form2.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="sample.Designer.vb">
+      <DependentUpon>sample.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sample.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TamilRichtextconvert.vb" />
+    <Compile Include="startup.vb" />
+    <Compile Include="XtraConverter.Designer.vb">
+      <DependentUpon>XtraConverter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="XtraConverter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Content Include="bin\Config.xml" />
+    <Content Include="bin\Data\DKN.xml" />
+    <Content Include="bin\Data\Suriyan.xml" />
+    <Content Include="bin\Data\Tamil\Bamini.xml" />
+    <Content Include="bin\Data\Tamil\Diacritic.xml" />
+    <Content Include="bin\Data\Tamil\Shreelipi.xml" />
+    <Content Include="bin\Data\Tamil\Softview.xml" />
+    <Content Include="bin\Data\Tamil\Tab.xml" />
+    <Content Include="bin\Data\Tamil\Tam.xml" />
+    <Content Include="bin\Data\Tamil\TSCII.xml" />
+    <Content Include="bin\Data\Tamil\Unicode.xml" />
+    <Content Include="bin\Data\Tamil\Vanavil.xml" />
+    <Content Include="bin\ExtendedDotNET.Controls.dll" />
+    <Content Include="bin\GemBox.Document.dll" />
+    <Content Include="bin\Readme.txt" />
+    <Content Include="bin\RTFConverter.exe" />
+    <Content Include="bin\RTFConverter.pdb" />
+    <Content Include="bin\RTFConverter.vshost.exe" />
+    <Content Include="bin\RTFConverter.xml" />
+    <Content Include="favicon.ico" />
+    <Content Include="Resources\chips-footer.jpg" />
+    <None Include="key.snk" />
+    <None Include="Resources\cwhome.png" />
+    <None Include="Resources\IndicLabs-logo1.png" />
+    <None Include="Resources\IndicLabs-logo.png" />
+    <None Include="Resources\tva.jpeg" />
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="sample.resx">
+      <DependentUpon>sample.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XtraConverter.resx">
+      <DependentUpon>XtraConverter.vb</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Resources\RTC_tamil1.jpeg" />
+    <None Include="Resources\RTC_tamil.jpeg" />
+    <None Include="Resources\images.jpeg" />
+    <None Include="Resources\LogoB.png" />
+    <EmbeddedResource Include="Resources\indiclabs_logo_name.png" />
+    <EmbeddedResource Include="Resources\LogoA.JPG" />
+    <EmbeddedResource Include="Form2.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Form21.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Icons\Body.ico" />
+    <EmbeddedResource Include="Icons\BookmarkEnd.ico" />
+    <EmbeddedResource Include="Icons\BookmarkStart.ico" />
+    <EmbeddedResource Include="Icons\Cell.ico" />
+    <EmbeddedResource Include="Icons\Collapse.ico" />
+    <EmbeddedResource Include="Icons\Document.ico" />
+    <EmbeddedResource Include="Icons\Expand.ico" />
+    <EmbeddedResource Include="Icons\FieldEnd.ico" />
+    <EmbeddedResource Include="Icons\FieldSeparator.ico" />
+    <EmbeddedResource Include="Icons\FieldStart.ico" />
+    <EmbeddedResource Include="Icons\Footer.ico" />
+    <EmbeddedResource Include="Icons\Footnote.ico" />
+    <EmbeddedResource Include="Icons\FormCheckBox.ico" />
+    <EmbeddedResource Include="Icons\FormDropDown.ico" />
+    <EmbeddedResource Include="Icons\FormField.ico" />
+    <EmbeddedResource Include="Icons\FormTextInput.ico" />
+    <EmbeddedResource Include="Icons\GroupShape.ico" />
+    <EmbeddedResource Include="Icons\Header.ico" />
+    <EmbeddedResource Include="Icons\HeaderFooter.ico" />
+    <EmbeddedResource Include="Icons\InlineShape.ico" />
+    <EmbeddedResource Include="Icons\Node.ico" />
+    <EmbeddedResource Include="Icons\Paragraph.ico" />
+    <EmbeddedResource Include="Icons\Row.ico" />
+    <EmbeddedResource Include="Icons\Run.ico" />
+    <EmbeddedResource Include="Icons\Section.ico" />
+    <EmbeddedResource Include="Icons\Shape.ico" />
+    <EmbeddedResource Include="Icons\SpecialChar.ico" />
+    <EmbeddedResource Include="Icons\Table.ico" />
+    <Content Include="App.ico" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="bin\Data\Desktop_.ini" />
+    <None Include="bin\RTFConverter.exe.config" />
+    <None Include="bin\RTFConverter.vshost.exe.config" />
+    <None Include="bin\RTFConverter.vshost.exe.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="obj\Release\build.force" />
+    <None Include="obj\Release\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="Resources\Vanavil.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="System.IO" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Data\Hindi\" />
+    <Folder Include="obj\Debug\TempPE\" />
+    <Folder Include="obj\Release\TempPE\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

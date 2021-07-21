@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+   <Encodings>
+      <Entry>
+         <Encoding>Bamini</Encoding>
+         <Bilingual>False</Bilingual>
+      </Entry>
+      <Entry>
+         <Encoding>Diacritic</Encoding>
+         <Bilingual>False</Bilingual>
+      </Entry>
+          <Entry>
+         <Encoding>Shreelipi</Encoding>
+         <Bilingual>False</Bilingual>
+      </Entry>
+      <Entry>
+         <Encoding>Softview</Encoding>
+         <Bilingual>False</Bilingual>
+      </Entry>
+      <Entry>
+         <Encoding>Tab</Encoding>
+         <Bilingual>True</Bilingual>
+      </Entry>
+      <Entry>
+         <Encoding>Tam</Encoding>
+         <Bilingual>False</Bilingual>
+      </Entry>
+      <Entry>
+         <Encoding>TSCII</Encoding>
+         <Bilingual>True</Bilingual>
+      </Entry>
+      <Entry>
+         <Encoding>Unicode</Encoding>
+         <Bilingual>True</Bilingual>
+      </Entry>
+      <Entry>
+         <Encoding>Vanavil</Encoding>
+         <Bilingual>False</Bilingual>
+      </Entry>
+   </Encodings>
+</Config>
